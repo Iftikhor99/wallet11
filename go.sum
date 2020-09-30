@@ -1,2 +1,4 @@
+github.com/Iftikhor99/wallet v0.0.0-20200930142845-847c9f5abcf8 h1:L04j7G0jRJ2xYgwK9HQJrVO4de5zCGXVzKDnQVGE/L8=
+github.com/Iftikhor99/wallet v0.0.0-20200930142845-847c9f5abcf8/go.mod h1:WpjF6kNkzuTui/R6DbdtIeCyT9OoyaHeAfkwsAY7ROY=
 github.com/google/uuid v1.1.2 h1:EVhdT+1Kseyi1/pUmXKaFxYsDNy9RQYkMWRH68J/W7Y=
 github.com/google/uuid v1.1.2/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
